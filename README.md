@@ -1,4 +1,4 @@
-# blind-accessible-game-engines
+# Blind Accessible Game Engines
 A hand-curated list of game engines and templates for creating blind-accessible games!
 
 | Name | Repository | Description |
