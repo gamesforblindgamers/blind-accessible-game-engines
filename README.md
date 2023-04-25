@@ -1,5 +1,6 @@
 # Blind Accessible Game Engines
-A hand-curated list of game engines and templates for creating blind-accessible games!
+
+A hand-curated list of game engines and templates built specifically for creating blind-accessible games!
 
 | Name | Repository | Description |
 | --- | --- | --- |
