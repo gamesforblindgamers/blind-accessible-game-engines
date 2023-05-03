@@ -4,6 +4,6 @@ Are you interested in making games that blind and visually impared gamers can pl
 
 
 | Name | Repository | Description | Works with screen readers? | Uses TTS? | Supported OSes |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Blind-Accessible HTML + Javascript Game Template | https://github.com/nightblade9/themis-games-template | A combination of HTML and Javascript for making web games that work across multiple devices (web, phone) and allow you to easily navigate your game elements and announce to the player. | Yes | No | All (web) |
 | Unseen RPG Engine | https://ericbomb.itch.io/the-unseen-rpg-engine | A console application that allows creation of blind-accessible RPGs. It edits text files that then gets read by a central EXE, and builds the game at runtime. As a console application, the final game works well with screen readers.  Changes can also be done easily by editing these text files. | Yes | No | Not sure |
