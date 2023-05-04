@@ -5,6 +5,8 @@ Are you interested in making games that blind and visually impared gamers can pl
 
 | Name | Repository | Description | Works with screen readers? | Uses Text-to-Speech? | Supported OSes |
 | --- | --- | --- | --- | --- | --- |
+| Bevy | https://bevyengine.org/ | A refreshingly simple data-driven game engine built in Rust
+Free and Open Source Forever! It has an API to integrate with AccessKit. | Yes | No | Windows, Linux, Mac, Web |
 | Blind-Accessible HTML + Javascript Game Template | https://github.com/nightblade9/themis-games-template | A combination of HTML and Javascript for making web games that work across multiple devices (web, phone) and allow you to easily navigate your game elements and announce to the player. | Yes | No | Web |
 | C/C++, C#, Java, Lua, Python, Ruby, etc.  | Various | Many programming languages allow you to create console (text) games, which integrate well with existing screen readers (NVDA, Orca, etc.) | Yes | No | Windows, Linux, Mac |
 | Unseen RPG Engine | https://ericbomb.itch.io/the-unseen-rpg-engine | A console application that allows creation of blind accessible RPG's. It edits text files that then gets read by a central EXE and builds the game at run time. As a console application the hope is it is as accessible as possible.  Meaning changes can also be done easily by editing these text files. | Yes | No | Windows |
