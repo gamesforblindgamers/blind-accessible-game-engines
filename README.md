@@ -3,7 +3,7 @@
 Are you interested in making games that blind and visually impared gamers can play, too? Me, too. Here's a list of resources, reading, and game engines that are useful in quickly putting together a game that works well for blind and visually impaired players.
 
 
-| Name | Repository | Description | Works with screen readers? | Uses Text-to-Speech? | Supported OSes |
+| Name | Repository | Description | Can output to screen readers? | Uses Text-to-Speech? | Supported OSes |
 | --- | --- | --- | --- | --- | --- |
 | Bevy | https://bevyengine.org/ | A refreshingly simple data-driven game engine built in Rust. Free and Open Source Forever! It has an API to integrate with AccessKit. | Yes | No | Windows, Linux, Mac, Web |
 | Blind-Accessible HTML + Javascript Game Template | https://github.com/nightblade9/themis-games-template | A combination of HTML and Javascript for making web games that work across multiple devices (web, phone) and allow you to easily navigate your game elements and announce to the player. | Yes | No | Web |
