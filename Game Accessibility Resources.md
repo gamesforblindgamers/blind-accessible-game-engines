@@ -1,3 +1,4 @@
+<!---Created by Panote Nuchprayoon - 2023-->
 | Name | Link | Description | How to Use to Create Blind-Accessible Games |
 |------|------|------|------|
 | Xbox Game Accessibility Guidelines | https://aka.ms/xags | A set of best practices that have been developed in partnership with industry experts and members of the Gaming & Disability Community | Section 101-103 and 106 are best to start for blind accessibility. [101 Text Display](https://learn.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines/101), [102 Contrast](https://learn.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines/102), [103 Alternative Cues](https://learn.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines/103), [106 Screen Narration](https://learn.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines/106) |
